@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"Ejercicio 02/2 - Tablas en HTML"</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Año de Publicación</th>
+            <th>Enlace a Amazon</th>
+        </tr>
+        <tr>
+            <td>El Camino a Cristo</td>
+            <td>Elena G. de White</td>
+            <td>1892</td>
+            <td><a href="https://www.amazon.com/-/es/Elena-White/dp/B086BC1LDR">Enlace</a></td>
+        </tr>
+        <tr>
+            <td>El Conflicto de los Siglos</td>
+            <td>Elena G. de White</td>
+            <td>1858</td>
+            <td><a href="https://www.amazon.com/-/es/Ellen-G-White/dp/0816391432/ref=sr_1_1?crid=3CYFLYJ051GYM&keywords=el+conflicto+de+los+siglos+en+espa%C3%B1ol&qid=1672419811&s=books&sprefix=el+conflicto%2Cstripbooks-intl-ship%2C269&sr=1-1">Enlace</a></td>
+        </tr>
+        <tr>
+            <td>El Único Hijo</td>
+            <td>Emmanuel Vallejos</td>
+            <td>2021</td>
+            <td><a href="https://www.amazon.com/-/es/Emmanuel-Vallejos/dp/9878617319">Enlace</a></td>
+        </tr>
+    </table>
+</body>
+</html>
