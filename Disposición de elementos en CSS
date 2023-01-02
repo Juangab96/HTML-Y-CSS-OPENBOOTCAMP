@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Disposición de elementos en CSS</title>
+</head>
+<body>
+    <div>
+        <img src="1DS19n7ic_360x240__1.jpg" alt="imagen-1">
+        <img src="32540.webp" alt="imagen-2">
+        <img src="681281-000-334q7cg.jpeg" alt="imagen-3">
+        <img src="lionel-messi-seleccion-argentina-campeon-mundial-qatar-2022.jpg" alt="imagen-4">
+        <img src="messi-campeon-del-mundo_416x234.webp" alt="imagen-5">
+        <img src="messi-seleccion-argentina-mundial.webp" alt="imagen-6">
+    </div>
+</body>
+</html>
